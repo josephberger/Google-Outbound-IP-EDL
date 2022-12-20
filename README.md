@@ -14,8 +14,6 @@ cd Google-Outbound-IP-EDL
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
-
-python3 app.py -i <ip-address> -p <port>
 ```
 
 ## Usage
