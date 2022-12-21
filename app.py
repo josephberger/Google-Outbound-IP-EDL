@@ -47,7 +47,7 @@ def edl():
         for s in re.findall(r"ip\d:(.*?) ",output):
             subnets.append(s)
 
-    return("<br>".join(subnets))
+    return("\n".join(subnets))
  
 if __name__ == '__main__':
 
