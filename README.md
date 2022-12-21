@@ -6,8 +6,6 @@ Simple http server to pull Google's outbound IPs into a Palo Alto Networks Pan-O
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 git clone https://github.com/josephberger/Google-Outbound-IP-EDL.git
 cd Google-Outbound-IP-EDL
